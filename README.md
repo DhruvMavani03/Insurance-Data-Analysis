@@ -32,3 +32,6 @@
   • **Claim & Policy Analysis**: Visuals for claim amounts by age group, policy activity status, and gender distribution.<br>
   • **Operational Metrics**: Track number of claims by status (Settled, Pending, Rejected), policy activity rates, and claim breakdowns by demographic segments and         policy type.<br>
   • **Business Impact**: Enables data-driven decisions for marketing, product design, customer segmentation, and operational efficiency improvements.<br>
+
+  ### 7. Dashboard Snapshot
+  
