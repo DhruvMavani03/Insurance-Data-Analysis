@@ -22,13 +22,13 @@
   Cleaned data was visualized directly in Power BI via the SQL Server connector.
 
 ### 5. Key Features and Insights
-  • **Business Problem**: Insurance companies need transparent, real-time views of policy issuance, claim trends, customer segmentation, and operational KPIs to          support decision-making, risk assessment, and customer service improvements.<br>
+  • **Business Problem**: Insurance companies need transparent, real-time views of policy issuance, claim trends, customer segmentation, and operational KPIs to            support decision-making, risk assessment, and customer service improvements.<br>
 
- • **Dashboard Goal**: Deliver an intuitive, one-page report for operational monitoring, trends analysis, and strategic insights into claims handling, customer          demographics, and product line performance.
+ • **Dashboard Goal**: Deliver an intuitive, one-page report for operational monitoring, trends analysis, and strategic insights into claims handling, customer            demographics, and product line performance.
 
 ### 6. Dashboard Highlights
   • **Key KPIs**: View total premium amount, coverage and claim amounts, split by gender and status.<br>
   • **Policy Composition**: Analyze premium distribution across Travel, Health, Auto, Life, and Home policies.<br>
   • **Claim & Policy Analysis**: Visuals for claim amounts by age group, policy activity status, and gender distribution.<br>
-  • **Operational Metrics**: Track number of claims by status (Settled, Pending, Rejected), policy activity rates, and claim breakdowns by demographic segments and       policy type.<br>
+  • **Operational Metrics**: Track number of claims by status (Settled, Pending, Rejected), policy activity rates, and claim breakdowns by demographic segments and         policy type.<br>
   • **Business Impact**: Enables data-driven decisions for marketing, product design, customer segmentation, and operational efficiency improvements.<br>
