@@ -34,4 +34,4 @@
   • **Business Impact**: Enables data-driven decisions for marketing, product design, customer segmentation, and operational efficiency improvements.<br>
 
   ### 7. Dashboard Snapshot
-  
+  ![Dashborad Image](https://github.com/DhruvMavani03/Insurance-Data-Analysis/blob/main/Snapshot%20of%20Dashboard.png)
