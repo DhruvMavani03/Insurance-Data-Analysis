@@ -1,4 +1,4 @@
-# Insurance-Data-Analysis
+# Insurance Data Analysis
 
 
 ### 1. PRISM Insurance Analytics Dashboard
